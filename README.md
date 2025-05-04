@@ -1,11 +1,19 @@
-this is github profile, make it more advance and better codes, 
-- 👋 Hi, I’m @AuxGrep
-- 👀 I’m a Penetration tester| Ethical hacker || Infosec Applications Programmer. 
-- 🌱 I’m currently working with Exploit blizzard community as SQL MasterMind exploit maker
-- 💞️ I’m looking to collaborate and share my knowledge with community about the importance of CyberSecurity
-- 📫 Check me thru mranonymoustz@tutanota.com
+<p align="center">
+  <img src="https://img.shields.io/badge/OSINT-Active-informational?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Exploitation-SQL%20Mastermind-red?style=flat-square&logo=skyliner" />
+  <img src="https://img.shields.io/badge/Infosec%20Dev-Python%20%7C%20Bash%20%7C%20PowerShell-9cf?style=flat-square&logo=codewars" />
+  <img src="https://img.shields.io/badge/Status-Always%20Root%20Never%20Admin-black?style=flat-square&logo=protonmail" />
+</p>
 
-<!---
-AuxGrep/AuxGrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 Whoami
+```bash
+👋 AuxGrep | Offensive Security Engineer | Threat Hunter | AppSec Programmer
+
+- 👋 Hi, I’m @AuxGrep  
+- 👀 I’m a Penetration Tester, Ethical Hacker, and Infosec Applications Developer  
+- 🌱 Currently contributing to the Exploit Blizzard community as the SQL Mastermind Exploit Creator  
+- 💞️ Passionate about collaborating and sharing knowledge to raise awareness about the importance of cybersecurity  
+- 📫 You can reach me at: mranonymoustz@tutanota.com
+
